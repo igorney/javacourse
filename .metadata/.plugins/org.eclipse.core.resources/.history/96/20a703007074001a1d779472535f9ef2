@@ -1,0 +1,17 @@
+package application;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import entities.Employee;
+
+public class ExercList {
+
+	public static void main(String[] args) {
+		List<Employee> = new ArrayList<>();
+		Employee employee = new Employee();
+		
+
+	}
+
+}
