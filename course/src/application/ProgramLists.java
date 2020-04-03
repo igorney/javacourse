@@ -16,7 +16,11 @@ public class ProgramLists {
 			System.out.println(item);
 		}
 		
+<<<<<<< HEAD
 		list.add(1, "Marco");
+=======
+		list.add(2, "Marco");
+>>>>>>> 1e1ec4ec173749dfdf9bd6ed67882c0ba265b66d
 		System.out.println(list.size());
 		for(String item : list) {
 			System.out.println(item);
