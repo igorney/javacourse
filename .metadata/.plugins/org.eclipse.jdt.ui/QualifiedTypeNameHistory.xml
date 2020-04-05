@@ -32,4 +32,5 @@
     <fullyQualifiedTypeName name="java.time.Instant"/>
     <fullyQualifiedTypeName name="java.util.Calendar"/>
     <fullyQualifiedTypeName name="java.util.TimeZone"/>
+    <fullyQualifiedTypeName name="entities.enums.OrderStatus"/>
 </qualifiedTypeNameHistroy>
